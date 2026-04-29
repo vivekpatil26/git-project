@@ -1,6 +1,2 @@
 
-Data ingestion step added by
-the feature ingestion team
-
-Data validation step added
-by the data validation branch
+Data transformation step added by DT team
